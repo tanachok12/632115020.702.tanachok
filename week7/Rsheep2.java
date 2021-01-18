@@ -1,5 +1,5 @@
 //tanachok 632115020
-
+package week7;
 public class Rsheep2 extends Person{
     String Rsheep2;
     public Rsheep2(String name, int age, String gender){

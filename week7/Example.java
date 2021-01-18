@@ -1,4 +1,4 @@
-
+package week7;
 //tanachok 632115020
 public class Example {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+package week7;
 //tanachok 632115020
 public class Art extends Person{
 

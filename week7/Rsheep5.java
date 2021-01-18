@@ -1,5 +1,5 @@
 //
-
+package week7;
 public class Rsheep5 extends Person{
     String Rsheep5;
     public Rsheep5(String name, int age, String gender){
